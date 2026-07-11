@@ -78,23 +78,12 @@ Users slept the most on Sunday, averaging approximately **7.55 hours**, and the 
 
 ## Visualizations
 
-Recommended visualizations for this case study:
-
-1. Average Steps by Day of Week
-2. Average Sleep Duration by Day of Week
-3. Activity Level Distribution
-4. Steps vs Calories Burned
-5. Key Metrics Summary
-
-If using GitHub, save visualization images inside a `Visualizations/` folder and embed them using this markdown format:
-
-```markdown
 ![Average Steps by Day](Visualizations/average_steps_by_day.png)
 ![Average Sleep by Day](Visualizations/average_sleep_by_day.png)
 ![Activity Level Distribution](Visualizations/activity_level_distribution.png)
 ![Steps vs Calories](Visualizations/steps_vs_calories.png)
 ![Key Metrics Summary](Visualizations/key_metrics_summary.png)
-```
+
 
 ## Recommendations
 
