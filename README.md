@@ -82,7 +82,7 @@ Users slept the most on Sunday, averaging approximately **7.55 hours**, and the 
 
 This visualization shows how users' average daily steps vary throughout the week. Saturday recorded the highest average step count, while Sunday recorded the lowest.
 
-![Average Steps by Day](Visualizations/average_steps_by_day.png)
+![Average Steps by Day](average_steps_by_day.png)
 
 ---
 
@@ -90,7 +90,7 @@ This visualization shows how users' average daily steps vary throughout the week
 
 Users averaged the most sleep on Sunday and the least on Thursday, suggesting recovery sleep occurs during weekends.
 
-![Average Sleep by Day](Visualizations/average_sleep_by_day.png)
+![Average Sleep by Day](average_sleep_by_day.png)
 
 ---
 
@@ -98,7 +98,7 @@ Users averaged the most sleep on Sunday and the least on Thursday, suggesting re
 
 Most recorded days fell into the Low Activity category, highlighting an opportunity for Bellabeat to encourage greater daily movement.
 
-![Activity Level Distribution](Visualizations/activity_level_distribution.png)
+![Activity Level Distribution](activity_level_distribution.png)
 
 ---
 
@@ -106,7 +106,7 @@ Most recorded days fell into the Low Activity category, highlighting an opportun
 
 A positive relationship exists between daily steps and calories burned, showing increased activity generally corresponds with higher energy expenditure.
 
-![Steps vs Calories](Visualizations/steps_vs_calories.png)
+![Steps vs Calories](steps_vs_calories.png)
 
 ---
 
@@ -114,7 +114,7 @@ A positive relationship exists between daily steps and calories burned, showing 
 
 Summary of the primary metrics identified throughout the analysis.
 
-![Key Metrics Summary](Visualizations/key_metrics_summary.png)
+![Key Metrics Summary](key_metrics_summary.png)
 
 ## Recommendations
 
